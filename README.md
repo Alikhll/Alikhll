@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I enthusiastically follow Tech news, a developer who is passionate about being a software developer! (Don't man to be self complimentary, but people say I'm shrewd, quick-witted, assertive and most likely pretentious ;))
+- 🔭 I enthusiastically follow Tech news, a developer who is passionate about being a software developer! (Don't mean to be self complimentary, but people say I'm shrewd, quick-witted, assertive and most likely pretentious ;))
 - 💬 As a daily basis, I do work with .NET Core/Go/Javascript - Docker/Kubernetes - AWS/Azure
-- 📫 How to reach my blog: https://alikhll.me/blog
+- 📫 How to reach my blog: https://alikhalili.me//blog
 - ⚡ Fun fact: I love being an entrepreneur someday ;))
 - 😄 Agnostic... 
 
